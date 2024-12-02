@@ -21,5 +21,5 @@ And just run the file:
 ./main
 ```
 
-Also, if you are interested, here's the [python version](](https://github.com/bongstong/GnomeWPChanger)[github.com])
+Also, if you are interested, here's the [python version](https://github.com/bongstong/GnomeWPChanger)
 But if you want to run it, stick to this one as it is less ressource intensive.
